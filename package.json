@@ -1,0 +1,31 @@
+{
+  "name": "generator-hong-react-webpack",
+  "version": "0.1.0",
+  "description": "基于react+webpack的项目生成器",
+  "main": "index.js",
+  "files": [
+    "generator/app"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincent1988/generator-hong-react-webpack.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "react",
+    "webpack"
+  ],
+  "author": "hong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vincent1988/generator-hong-react-webpack/issues"
+  },
+  "homepage": "https://github.com/vincent1988/generator-hong-react-webpack#readme",
+  "dependencies": {
+    "yeoman-generator": "^0.24.1",
+    "yosay": "^1.2.1"
+  }
+}
